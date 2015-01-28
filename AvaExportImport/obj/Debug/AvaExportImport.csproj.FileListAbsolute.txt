@@ -1,0 +1,6 @@
+c:\users\lars.white\documents\visual studio 2013\Projects\AvaExportImport\AvaExportImport\bin\Debug\AvaExportImport.exe.config
+c:\users\lars.white\documents\visual studio 2013\Projects\AvaExportImport\AvaExportImport\bin\Debug\AvaExportImport.exe
+c:\users\lars.white\documents\visual studio 2013\Projects\AvaExportImport\AvaExportImport\bin\Debug\AvaExportImport.pdb
+c:\users\lars.white\documents\visual studio 2013\Projects\AvaExportImport\AvaExportImport\obj\Debug\AvaExportImport.csprojResolveAssemblyReference.cache
+c:\users\lars.white\documents\visual studio 2013\Projects\AvaExportImport\AvaExportImport\obj\Debug\AvaExportImport.exe
+c:\users\lars.white\documents\visual studio 2013\Projects\AvaExportImport\AvaExportImport\obj\Debug\AvaExportImport.pdb
